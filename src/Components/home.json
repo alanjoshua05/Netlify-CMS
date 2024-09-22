@@ -1,0 +1,171 @@
+{
+    "new": [
+        {
+            "news": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Lorem ipsum dolor sit amet consectetur adipisicing elit."
+        }
+    ],
+    "lab": [
+        {
+            "about_lab": "The role of a campus in ensuring quality learning is of great significance and IIT Madras, which already has a world-class campus, will now ensure it is further infused with the spirit of inclusivity, by celebrating the pluralism of cultures, nationalities, and personalities in a global world. We envision our campus to reflect the ethos of innovation, entrepreneurship, and dynamism of spirit. Each IITian should foster an endless, restless quest to look for solutions to real-world problems thereby contributing to the society we live in and helping our nation truly be “atma-nirbhar” (self-reliant).",
+            "gpic": "https://fscn.cfans.umn.edu/sites/fscn.cfans.umn.edu/files/styles/folwell_third/public/2021-02/CFANS-FoodScienceLab-3042%20old%20Pam%20Lab%20group%20students.jpg"
+        }
+    ],
+    "carosal": [
+        {
+            "id": 1,
+            "imgs": "https://news.cgtn.com/news/3159444e78496a4e3149444e34636a4e32417a4e31457a6333566d54/img/883f380d8a804bda98cc082701b6ee34/883f380d8a804bda98cc082701b6ee34.png"
+        },
+        {
+            "id": 2,
+            "imgs": "https://www.missouripartnership.com/wp-content/uploads/2021/12/iStock-1346675584.jpg"
+        },
+        {
+            "id": 3,
+            "imgs": "https://images.theconversation.com/files/499039/original/file-20221205-14-tgshle.jpg"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "title": "Boost your conversion rate",
+            "href": "#",
+            "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16",
+            "category": {
+                "title": "Marketing",
+                "href": "#"
+            },
+            "author": {
+                "name": "Michael Foster",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+            }
+        },
+        {
+            "id": 2,
+            "title": "Boost your conversion rate",
+            "href": "#",
+            "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+            "date": "May 16, 2023",
+            "datetime": "2023-05-16",
+            "category": {
+                "title": "Marketing",
+                "href": "#"
+            },
+            "author": {
+                "name": "Alan",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+            }
+        },
+        {
+            "id": 3,
+            "title": "Boost your conversion rate",
+            "href": "#",
+            "description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.",
+            "date": "Mar 16, 2020",
+            "datetime": "2020-03-16",
+            "category": {
+                "title": "Marketing",
+                "href": "#"
+            },
+            "author": {
+                "name": "Michael Foster",
+                "role": "Co-Founder / CTO",
+                "href": "#",
+                "imageUrl": "https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+            }
+        }
+    ],
+    "research": [
+        {
+            "id": 1,
+            "title": "Dani",
+            "discription": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "link": "#",
+            "img_link": "https://www.shutterstock.com/image-photo/portrait-asian-college-student-on-600nw-84518011.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Alan",
+            "discription": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "link": "#",
+            "img_link": "https://www.shutterstock.com/image-photo/portrait-asian-college-student-on-600nw-84518011.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Bellson",
+            "discription": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+            "link": "#",
+            "img_link": "https://www.shutterstock.com/image-photo/portrait-asian-college-student-on-600nw-84518011.jpg"
+        }
+    ],
+    "article": [
+        {
+            "art": "Vortex reconnections are ubiquitous events found in diverse media. Here we show that vortex reconnections also occur between spatiotemporal vortices in optical waves. Since vortices exhibit orbital angular momentum (OAM), the reconnections of optical vortices create a variety of connected OAM states. Dispersion and diffraction can cause different reconnection pairs, depending on the orientation of the vortices. The transverse crossing of two vortices with a topological charge of one can produce unique vortex loop reconnection patterns. Higher topological charges result in arrays of vortex loops and connection points. Crossing of three vortices produces spherical structures made of three symmetrical vortex arms. A three vortices reconnection with higher topological charges develops complicated patterns similar to turbulence cascade phenomena in other media. Studying optical vortex interactions may bring insight into vortex reconnections in other fields. We also provide experimental results of two-vortex loop interaction.Generating spatiotemporal optical vortices typically involves applying a phase in the spatial-frequency and frequency domain (kx − ω) of a wavepacket. Exiting a pulse shaper and propagating a sufficiently far distance performs a 2D Fourier transform so that the desired spacetime structure (x − t) can be designed by calculating the necessary Fourier domain phase. Limited types of three-dimensional (3D) wave packets can be obtained by performing sequential 2D spatial-frequency and frequency phase modulations in orthogonal planes (i.e. kx − ω, kY − ω, kx –  kY ) where the final results can be calculated with 3D Fourier transform. While diffraction causes the spatial-frequency spectrum at one plane to be mapped onto the spatial domain at a different location, insufficient propagation leads to an in-between state described by the Fresnel transform. Additionally, for pulses, acquiring a quadratic frequency phase from dispersive media can also be modeled with a Fresnel transform. To accurately model spatiotemporal optical vortices under variable propagation conditions, 3D (kx − kY − ω) Fresnel transforms are needed. Using these transforms, we will eventually show that propagating through dispersive media or through a focus can cause vortex reconnections. We start from two perpendicularly intersecting vortices embedded in a wave packet in the frequency domain and then examine the evolution in the space–time domain. For the wave packet, we start with an amplitude envelope that is Gaussian in both space and time (x, y, t) which corresponds to Gaussian in spatial-frequency and frequency (kx, ky, ω). We can add two vortices, one is a STOV while the other one is a regular spatial vortex, in the frequency domain and perform the Fresnel transform as shown in Eq."
+        }
+    ],
+    "team": [
+        {
+            "img": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
+            "name": "Alan Joshua",
+            "about": "IIT Madras"
+        },
+        {
+            "img": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
+            "name": "Geofreey bellson Daniel",
+            "about": "JRF (Junior Research Fellowship)\n CSIR (AIR 73)"
+        },
+        {
+            "img": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
+            "name": "Geofreey bellson Daniel",
+            "about": "JRF (Junior Research Fellowship)\n CSIR (AIR 73)"
+        },
+        {
+            "img": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
+            "name": "Geofreey bellson Daniel",
+            "about": "JRF (Junior Research Fellowship)\n CSIR (AIR 73)"
+        }
+    ],
+    "publication": [
+        {
+            "img": "https://images.panda.org/assets/images/pages/welcome/orangutan_1600x1000_279157.jpg",
+            "title": "DNA synthesis",
+            "content": "Vortex reconnections are ubiquitous events found in diverse media.",
+            "date": "May 16, 2023"
+        }
+    ],
+    "guide":[
+        {
+            "year":"2009",
+            "awards":"Qualified GATE 2009 examination."
+        },
+        {
+            "year":"2009",
+            "awards":"Qualified National Eligibility Test (CSIR-LS-NET, July–2009), New Delhi."
+        },
+        {
+            "year":"2009",
+            "awards":"Awarded as Junior Research Fellow (IRCC-IIT Bombay April 2009 to July 2010)."
+        },
+        {
+            "year":"2010",
+            "awards":"Awarded as Junior Research Fellow (CSIR, July−2010 to July−2012), New Delhi."
+        },
+        {
+            "year":"2012",
+            "awards":"Awarded as Senior Research Fellow (CSIR, July−2012 to July−2015), New Delhi."
+        },
+        {
+            "year":"2017",
+            "awards":"PhD Best Thesis Award, IIT Bombay"
+        },
+        {
+            "year":"2017",
+            "awards":"Awarded National Postdoctoral Fellowship (DST-SERB-NPDF)"
+        }
+    ]
+}
